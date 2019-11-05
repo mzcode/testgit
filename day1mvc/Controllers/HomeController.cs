@@ -10,6 +10,7 @@ namespace day1mvc.Controllers
     {
         public ActionResult Index()
         {
+            //nfdmmgd
             return View();
         }
 
